@@ -5,7 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace SMS_Entitie
-{
+{/// <summary>
+/// het
+/// </summary>
     public class Student
     {
         #region Variable
